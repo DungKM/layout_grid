@@ -1,6 +1,8 @@
 #commands
 branch
 Conflict
+local
+remove
 
 - git init
 - git status
@@ -15,3 +17,4 @@ Conflict
 - git checkout -b {tên nhánh branch}
 git merge {tên branch} (tổng hợp branch)
 git branch -d (tên branch)
+git push (duong huong dan )
