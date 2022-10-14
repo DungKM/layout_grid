@@ -11,3 +11,5 @@
 - git master (trở về hiện tại)
 - git branch (tạo nhánh mới)
 - git checkout -b {tên nhánh branch}
+git merge {tên branch} (tổng hợp branch)
+git branch -d (tên branch)
