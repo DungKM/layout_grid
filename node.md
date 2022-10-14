@@ -1,4 +1,6 @@
 #commands
+branch
+Conflict
 
 - git init
 - git status
